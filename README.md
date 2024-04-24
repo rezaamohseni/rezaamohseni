@@ -7,7 +7,9 @@ def rezamohseni():
         "birthDay": "28 July",
         "skills" : "Js , python ,django ",
         "univercity" : "pnu arak" 
-    }
+        }
+    
+    <img align = "right" alt = "reza"  width = "400" src = "https://reactiongifs.me/wp-content/uploads/2019/07/Programming.gif">
 
  <h1 align="center">Hi 👋, I'm reza</h1>
 <h3 align="center">I am a computer engineer who works in the field of back-end and front-end sites, as well as in the field of networking with Python and JavaScript.</h3>
