@@ -8,11 +8,11 @@ def rezamohseni():
         "skills" : "Js , python ,django ",
         "univercity" : "pnu arak" 
         }
-    
-    <img align = "right" alt = "reza"  width = "400" src = "https://reactiongifs.me/wp-content/uploads/2019/07/Programming.gif">
-
+  
  <h1 align="center">Hi 👋, I'm reza</h1>
 <h3 align="center">I am a computer engineer who works in the field of back-end and front-end sites, as well as in the field of networking with Python and JavaScript.</h3>
+  <img align = "right" alt = "reza"  width = "400" src = "https://www.itidharmanagar.edu.in/images/copa5.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezaamohseni&label=Profile%20views&color=0e75b6&style=flat" alt="rezaamohseni" /> </p>
 
@@ -22,7 +22,7 @@ def rezamohseni():
 
 - 📫 How to reach me **https://www.instagram.com/@imreza.mohseni**
 
-- ⚡ Fun fact **تا زمانی که حقیقت آزاد نیست ، آزادی حقیقتی ندارد.**
+- ⚡ Fun fact **منو با عینک دودی خاک کنید  نور به قبرم میباره اذیت میشم.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
