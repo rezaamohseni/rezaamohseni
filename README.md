@@ -22,7 +22,7 @@ def rezamohseni():
 
 - 📫 How to reach me **https://www.instagram.com/@imreza.mohseni**
 
-- ⚡ Fun fact **منو با عینک دودی خاک کنید  نور به قبرم میباره اذیت میشم**
+- ⚡ Fun fact **تا زمانی که حقیقت آزاد نیست ، آزادی حقیقت ندارد**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
